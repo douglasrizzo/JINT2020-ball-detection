@@ -1,0 +1,5 @@
+classes = 1
+train  = JINT2020-ball-detection/data/yolo/train.txt
+valid  = JINT2020-ball-detection/data/yolo/test.txt
+names = JINT2020-ball-detection/data/yolo/obj.names
+backup = JINT2020-ball-detection/networks/yolo/weights_trained
