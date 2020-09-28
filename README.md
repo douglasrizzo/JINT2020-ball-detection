@@ -22,7 +22,8 @@ This directory contains the results from our JINT 2020 paper, in which we traine
 
 This is the data set we used:
 
-> R. A. C. Bianchi, “Open soccer ball dataset,” 2020, doi: 10/ghcfxn.
+> R. A. C. Bianchi, D. H. Perico, T. P. D. Homem, I. J. da Silva, and D. R. Meneghetti, “Open Soccer Ball Dataset.” IEEE, Sep. 21, 2020, doi: 10/ghcfxn.
+
 
 It is available for free on [IEEE Dataport](https://ieee-dataport.org/open-access/open-soccer-ball-dataset) as long as you have a free account.
 
